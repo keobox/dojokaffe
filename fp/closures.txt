@@ -1,6 +1,4 @@
-Python 2.7.4 (default, Apr 17 2013, 01:17:21) 
-[GCC 4.1.2 20080704 (Red Hat 4.1.2-50)] on linux2
-Type "help", "copyright", "credits" or "license" for more information.
+"""
 >>> 
 >>> # closures can be implemented using high order functions
 >>> # high order functions are functions that return a function
@@ -34,3 +32,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> l[0]=2
 >>> muta_inc(3)
 5
+"""
